@@ -1,0 +1,2 @@
+# RiF
+Registration in Framagenda
